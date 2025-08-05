@@ -1,7 +1,7 @@
 let createBtn = document.querySelector(".create");
 let container = document.querySelector(".notes-container");
 
-// Load saved notes on page loads
+// Load saved notes on page load
 window.addEventListener("DOMContentLoaded", () => {
   let savedNotes = JSON.parse(localStorage.getItem("notes")) || [];
   savedNotes.forEach(text => {
