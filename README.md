@@ -2,13 +2,13 @@
 
 A clean and responsive Note-taking web application built using HTML, CSS, and JavaScript. This application allows users to create, write, and delete notes in a simple and interactive interface. It uses local storage to persist notes even after refreshing the browser.
 
-# 🔧 Tech Stack
+🔧 Tech Stack
 
 - HTML5.  
 - CSS3 (with gradients and modern styles).  
 - JavaScript (DOM manipulation + localStorage).
 
-# ✨ Features
+✨ Features
 
 - 📄 Create multiple notes.  
 - ✍️ Edit text in real-time.  
@@ -16,11 +16,11 @@ A clean and responsive Note-taking web application built using HTML, CSS, and Ja
 - 💾 Stores notes in localStorage. 
 - 🎨 Beautiful gradient background and clean UI.  
 
-# 📸 Preview
+📸 Preview
 
 ![Make Notes](https://github.com/user-attachments/assets/ff00fbc2-33f2-48c9-8b78-643852defe44)
 
-# 🧑‍💻 How to Use the Notes App
+🧑‍💻 How to Use the Notes App
 
 1. Click the “Create Notes” button
  - A new note box will appear on the screen.
